@@ -25,8 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/zeeaaaa/Frontend-Mentor-Challanges/tree/main/qr-code-component-main))
 
 ## My process
 
@@ -82,7 +81,7 @@ Flex and content handling.
 
 ## Author
 
-- Website - [Zia Ullah Khan](https://www.your-site.com)
+- Website - [Zia Ullah Khan]([https://www.your-site.com](https://github.com/zeeaaaa/Frontend-Mentor-Challanges/tree/main/qr-code-component-main))
 - Frontend Mentor - [@zeeaaaa](https://www.frontendmentor.io/profile/zeeaaaa)
 
 ## Acknowledgments
